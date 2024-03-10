@@ -1,0 +1,2 @@
+# WND
+TRUSTWALLET
